@@ -1,0 +1,23 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ParsLogPlot.Properties.Resources.resources
+obj\Debug\ParsLogPlot.resourcepool.resources
+obj\Debug\ParsLogPlot.UserControl1.resources
+obj\Debug\ParsLogPlot.csproj.GenerateResource.Cache
+bin\Pars Plot Log.pdb
+bin\ListControls.dll
+bin\myImage.dll
+bin\resourcemanager.dll
+bin\VerbHoster.dll
+bin\Verbs.dll
+bin\myImage.pdb
+bin\resourcemanager.pdb
+obj\Debug\ParsLogPlot.MainForm.resources
+obj\Debug\Pars Plot Log.pdb
+bin\Pars Plot Log.exe.config
+bin\Pars Plot Log.exe.manifest
+bin\Pars Plot Log.application
+bin\Pars Plot Log.exe
+obj\Debug\Pars Plot Log.TrustInfo.xml
+obj\Debug\Pars Plot Log.exe.manifest
+obj\Debug\Pars Plot Log.application
+obj\Debug\Pars Plot Log.exe

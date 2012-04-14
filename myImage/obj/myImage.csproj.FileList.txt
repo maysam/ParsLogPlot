@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\myImage.dll
+bin\myImage.pdb
+obj\Debug\myImage.dll
+obj\Debug\myImage.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\myImage.dll
+obj\Release\myImage.pdb

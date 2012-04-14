@@ -1,0 +1,12 @@
+bin\Debug\resourcemanager.dll.config
+bin\Debug\resourcemanager.dll
+bin\Debug\resourcemanager.pdb
+bin\Debug\myImage.dll
+bin\Debug\myImage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\resourcemanager.Form1.resources
+obj\Debug\resourcemanager.Properties.Resources.resources
+obj\Debug\resourcemanager.ResourceEditorForm.resources
+obj\Debug\resourcemanager.csproj.GenerateResource.Cache
+obj\Debug\resourcemanager.dll
+obj\Debug\resourcemanager.pdb

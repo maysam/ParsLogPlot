@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ParsLogPlot.GridStyle" Collapsed="true">
+    <Position X="14" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>iAEAQCGgAACABAAAAIAQAAAAAAAAAAAAEAhAQAAIAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.GridStyleConverter" Collapsed="true">
+    <Position X="15.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.LineStyle" Collapsed="true">
+    <Position X="22.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAgwAAAACBAAAAAAAAAAAAAAAAAEAABAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.LineStyleConverter" Collapsed="true">
+    <Position X="12.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.TwoGridStyle" Collapsed="true">
+    <Position X="19.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAABAEIAAAAhAAAAACACAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.TwoGridStyleConverter" Collapsed="true">
+    <Position X="21" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.LithologyTemplate" Collapsed="true">
+    <Position X="19.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAIQCQAACAABAEEAAAAAQAAACAWAAQAAoAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.LithologyCollection" Collapsed="true">
+    <Position X="14" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAIAAAAAAAAAAAAECAAABAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.LithologySettings" Collapsed="true">
+    <Position X="15.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.KeyValueColumnConverter" Collapsed="true">
+    <Position X="21" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.KeyValueFilledColumn" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAgAAgAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.CurveColumn" Collapsed="true">
+    <Position X="10.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAgAAAAAAAACAQAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.CrossPlotCurveColumn" Collapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.PatternEditor" Collapsed="true">
+    <Position X="19.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAgAAAABAAAAAAAAAIAAAAAAAAAAAEAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.FontEditor" Collapsed="true">
+    <Position X="22.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAgAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.TotalFillStyle" Collapsed="true">
+    <Position X="17.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAGAEAAAAABCEAAAAAAQAACAAGAAAAAQAAAABgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.FilledColumn" Collapsed="true">
+    <Position X="21" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.ValueFilledColumn" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.HistogramColumn" Collapsed="true">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.HistogramValueColumn" Collapsed="true">
+    <Position X="22" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.LithologyColumn" Collapsed="true">
+    <Position X="24.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAACAABAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.math" Collapsed="true">
+    <Position X="12.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.FillBarColumn" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.SymbolColumn" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.ScaleBarColumn" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>m+gAACAGAQAAAAAAQCAAhAEAIAAgAQAAQASAAQAEQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.BitmapColumn" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.PercentColumn" Collapsed="true">
+    <Position X="35.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.Column" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACABMxAEACCEgAYCAABIYEQCABABAAgaSQCAAEBBIAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.TadpoleColumn" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.ValueColumn" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.WellColumn" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.FossilColumn" Collapsed="true">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.SeaColumn" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ICAAAAAEAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.TextColumn" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.VerticalTextColumn" Collapsed="true">
+    <Position X="33.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>ACAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAQAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.PointFComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1" Collapsed="true">
+    <Position X="21" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>logplotDataSet11.cs</FileName>
+      <HashCode>ACMrAFBIo0IEMKJhBQRl4AFoKHiCQBwIBEwCQYMoBDI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.MainForm" Collapsed="true">
+    <Position X="22.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainForm.cs</FileName>
+      <HashCode>ZZSQFI0RZeof63db5WTz2l93R77Zs30/lf5dnypQj/s=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.Program" Collapsed="true">
+    <Position X="12.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.resourcepool" Collapsed="true">
+    <Position X="14" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAADAAAAEYAAAAAACABEAAQ8587ABAAgAkZwAQAwYU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.UserControl1" Collapsed="true">
+    <Position X="22.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>QQQAAAENACAsYwSAonGIAPgCgAEoAQhwAAACAgjAJQE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.MyDesigner" Collapsed="true">
+    <Position X="17.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.myobject" Collapsed="true">
+    <Position X="18.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAgAAwIAABCAAAAAABIAARAAAAACAABCAAAAAhEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.myline" Collapsed="true">
+    <Position X="18.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>ABAAAAKEBAAAAAAAAAIDIEAAA4EDAACABQACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.myrect" Collapsed="true">
+    <Position X="20.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAAAAAMAAAABAAAAAAIAAAAAAAAACAAAAAgAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.myoval" Collapsed="true">
+    <Position X="20.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.mypic" Collapsed="true">
+    <Position X="16.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAAAAAAIAAAAAAAAEQBAAAAIAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.mytext" Collapsed="true">
+    <Position X="18.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAAAAEIAAABAAAAAAAIAAAAAAACAAAAIAAAACAAQAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.myCollection" Collapsed="true">
+    <Position X="15.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAIAAAAAAAAAAAAECAIABAAIAAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.bitmapTableAdapter" Collapsed="true">
+    <Position X="12.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.crossplotTableAdapter" Collapsed="true">
+    <Position X="15.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.curveTableAdapter" Collapsed="true">
+    <Position X="17.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.entityTableAdapter" Collapsed="true">
+    <Position X="19.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.fillTableAdapter" Collapsed="true">
+    <Position X="21" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.fossilTableAdapter" Collapsed="true">
+    <Position X="12.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.histogramTableAdapter" Collapsed="true">
+    <Position X="17.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.horizontalTableAdapter" Collapsed="true">
+    <Position X="19.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.lithologyTableAdapter" Collapsed="true">
+    <Position X="17.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.messageTableAdapter" Collapsed="true">
+    <Position X="14" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.percentTableAdapter" Collapsed="true">
+    <Position X="21" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.resourceTableAdapter" Collapsed="true">
+    <Position X="17.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.sampleTableAdapter" Collapsed="true">
+    <Position X="19.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.symbolTableAdapter" Collapsed="true">
+    <Position X="12.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.textTableAdapter" Collapsed="true">
+    <Position X="15.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.verticalTableAdapter" Collapsed="true">
+    <Position X="12.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.wellTableAdapter" Collapsed="true">
+    <Position X="14" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.tadpoleTableAdapter" Collapsed="true">
+    <Position X="14" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.seaTableAdapter" Collapsed="true">
+    <Position X="21" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.logplotDataSet1TableAdapters.configurationTableAdapter" Collapsed="true">
+    <Position X="14" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.Properties.Resources" Collapsed="true">
+    <Position X="15.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParsLogPlot.Properties.Settings" Collapsed="true">
+    <Position X="22.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAEAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ParsLogPlot.ColumnType" Collapsed="true">
+    <Position X="14" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>CEAAAAAAAQAAkBAAQAgAAAAAIBAIAAAAgiAAGAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.ScaleType" Collapsed="true">
+    <Position X="12.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.FitStyleType" Collapsed="true">
+    <Position X="17.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAgAAEAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.LowHighStyleType" Collapsed="true">
+    <Position X="21" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.LeftRightStyleType" Collapsed="true">
+    <Position X="19.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.FillStyle" Collapsed="true">
+    <Position X="15.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAABAQAAABAAAAAAQAAAAEEAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.SIDE" Collapsed="true">
+    <Position X="14" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.MEASURE" Collapsed="true">
+    <Position X="22.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>columns.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ParsLogPlot.action" Collapsed="true">
+    <Position X="12.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserControl1.cs</FileName>
+      <HashCode>AAAACAIAAAAAAAAAAAAAAAAAAAAIAQAACACCIAEIAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

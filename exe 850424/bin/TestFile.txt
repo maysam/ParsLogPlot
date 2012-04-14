@@ -1,0 +1,4 @@
+This is the header for the file.
+-------------------
+Index was outside the bounds of the array.   at ParsLogPlot.MainForm.SaveData() in C:\Documents and Settings\mahsa\Desktop\RIPI\ParsLogPlot\MainForm.cs:line 181Pars Plot LogSystem.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ParsLogPlot.MainForm.SaveData() in C:\Documents and Settings\mahsa\Desktop\RIPI\ParsLogPlot\MainForm.cs:line 181The date is: 2005/06/07 09:42:03 ق.ظ
